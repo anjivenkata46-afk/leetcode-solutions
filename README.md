@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0052-n-queens-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0079-word-search/) | Medium |
+| [0089-gray-code](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0089-gray-code/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0060-permutation-sequence](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0067-add-binary](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+| [0089-gray-code](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0089-gray-code/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0089-gray-code/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
