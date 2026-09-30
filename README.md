@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0076-minimum-window-substring](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+| [0076-minimum-window-substring](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,4 +113,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 <!---LeetCode Topics End-->
