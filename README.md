@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
