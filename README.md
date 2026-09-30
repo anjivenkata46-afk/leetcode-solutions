@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,10 +66,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,4 +138,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
