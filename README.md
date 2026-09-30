@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0060-permutation-sequence](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +89,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0060-permutation-sequence](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
 <!---LeetCode Topics End-->
