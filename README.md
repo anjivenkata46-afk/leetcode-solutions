@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0064-minimum-path-sum](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0087-scramble-string](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0087-scramble-string/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0079-word-search/) | Medium |
+| [0087-scramble-string](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0087-scramble-string/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
