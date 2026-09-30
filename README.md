@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,4 +94,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
