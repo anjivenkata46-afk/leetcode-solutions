@@ -63,15 +63,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0060-permutation-sequence](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
+| [0067-add-binary](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0067-add-binary](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0067-add-binary](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,4 +104,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
