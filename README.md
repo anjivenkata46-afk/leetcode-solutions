@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0079-word-search/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,12 +163,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
