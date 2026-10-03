@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,11 +174,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
