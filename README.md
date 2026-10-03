@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0095-unique-binary-search-trees-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,8 +179,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0095-unique-binary-search-trees-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
