@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0087-scramble-string](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0087-scramble-string/) | Hard |
 | [0095-unique-binary-search-trees-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0097-interleaving-string](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
+| [0115-distinct-subsequences](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0087-scramble-string](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0087-scramble-string/) | Hard |
 | [0093-restore-ip-addresses](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
+| [0115-distinct-subsequences](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
