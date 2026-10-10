@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0212-word-search-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0174-dungeon-game](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0174-dungeon-game/) | Hard |
 | [0200-number-of-islands](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0212-word-search-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0140-word-break-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0140-word-break-ii/) | Hard |
+| [0212-word-search-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -391,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
