@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0165-compare-version-numbers](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0165-compare-version-numbers/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0165-compare-version-numbers](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0165-compare-version-numbers/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
