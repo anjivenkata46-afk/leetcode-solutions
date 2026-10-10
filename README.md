@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
