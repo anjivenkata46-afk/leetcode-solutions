@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0095-unique-binary-search-trees-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0095-unique-binary-search-trees-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0097-interleaving-string](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0126-word-ladder-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
