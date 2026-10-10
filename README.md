@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0089-gray-code](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0089-gray-code/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0165-compare-version-numbers/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
