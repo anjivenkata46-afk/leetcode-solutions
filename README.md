@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,12 +165,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0148-sort-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0147-insertion-sort-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0147-insertion-sort-list/) | Medium |
+| [0148-sort-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0147-insertion-sort-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0147-insertion-sort-list/) | Medium |
+| [0148-sort-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,4 +320,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
