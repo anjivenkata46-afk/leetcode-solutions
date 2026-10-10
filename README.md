@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0189-rotate-array](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0198-house-robber](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0174-dungeon-game](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0174-dungeon-game/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0198-house-robber](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
