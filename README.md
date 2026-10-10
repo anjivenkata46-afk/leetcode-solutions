@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
