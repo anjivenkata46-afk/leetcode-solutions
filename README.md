@@ -401,4 +401,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0178-rank-scores](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0178-rank-scores/) | Medium |
 | [0180-consecutive-numbers](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0180-consecutive-numbers/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0182-duplicate-emails](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
