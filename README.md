@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0143-reorder-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0147-insertion-sort-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
