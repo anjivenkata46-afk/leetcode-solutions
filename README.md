@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
+| [0217-contains-duplicate](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0217-contains-duplicate](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
