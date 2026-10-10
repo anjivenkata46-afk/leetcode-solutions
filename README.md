@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0148-sort-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0190-reverse-bits](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
