@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0164-maximum-gap](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0165-compare-version-numbers/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
