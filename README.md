@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [1175-prime-arrangements](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -517,21 +519,25 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [1175-prime-arrangements](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 ## Sieve Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [1175-prime-arrangements](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 ## Prime Number Sieve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [1175-prime-arrangements](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -583,4 +589,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0218-the-skyline-problem](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0218-the-skyline-problem/) | Hard |
 | [0220-contains-duplicate-iii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0220-contains-duplicate-iii/) | Hard |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 <!---LeetCode Topics End-->
