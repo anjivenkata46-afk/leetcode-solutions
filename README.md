@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+| [1175-prime-arrangements](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -520,14 +521,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+| [1175-prime-arrangements](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
 ## Sieve Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+| [1175-prime-arrangements](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
 ## Prime Number Sieve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+| [1175-prime-arrangements](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
