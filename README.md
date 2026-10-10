@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
+| [0166-fraction-to-recurring-decimal](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0089-gray-code](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0089-gray-code/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0166-fraction-to-recurring-decimal](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0165-compare-version-numbers/) | Medium |
+| [0166-fraction-to-recurring-decimal](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
