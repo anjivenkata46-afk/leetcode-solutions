@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0164-maximum-gap](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0169-majority-element](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0148-sort-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0147-insertion-sort-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
+| [0169-majority-element](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -361,4 +365,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
