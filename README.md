@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0174-dungeon-game](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0174-dungeon-game/) | Hard |
+| [0179-largest-number](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0166-fraction-to-recurring-decimal](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0179-largest-number](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0135-candy/) | Hard |
+| [0179-largest-number](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
