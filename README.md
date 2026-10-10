@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0143-reorder-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
+| [0143-reorder-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
