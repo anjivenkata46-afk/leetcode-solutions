@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0218-the-skyline-problem](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0218-the-skyline-problem/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0220-contains-duplicate-iii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0220-contains-duplicate-iii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0218-the-skyline-problem](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0218-the-skyline-problem/) | Hard |
+| [0220-contains-duplicate-iii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0220-contains-duplicate-iii/) | Hard |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0220-contains-duplicate-iii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0220-contains-duplicate-iii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -448,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
+| [0220-contains-duplicate-iii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0220-contains-duplicate-iii/) | Hard |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -574,4 +578,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0218-the-skyline-problem](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0218-the-skyline-problem/) | Hard |
+| [0220-contains-duplicate-iii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0220-contains-duplicate-iii/) | Hard |
 <!---LeetCode Topics End-->
