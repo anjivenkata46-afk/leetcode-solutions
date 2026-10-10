@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
