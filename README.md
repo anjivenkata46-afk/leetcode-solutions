@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
+| [0134-gas-station](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
+| [0134-gas-station](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
