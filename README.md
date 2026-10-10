@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1175-prime-arrangements](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -524,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -531,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1175-prime-arrangements](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 ## Sieve Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -538,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1175-prime-arrangements](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 ## Prime Number Sieve
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -545,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1175-prime-arrangements](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
