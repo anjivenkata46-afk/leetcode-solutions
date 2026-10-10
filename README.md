@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0174-dungeon-game](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0174-dungeon-game/) | Hard |
 | [0179-largest-number](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0174-dungeon-game](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0174-dungeon-game/) | Hard |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
