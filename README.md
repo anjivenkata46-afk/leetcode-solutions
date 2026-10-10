@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
+| [0214-shortest-palindrome](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0214-shortest-palindrome/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -470,14 +471,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0214-shortest-palindrome](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0214-shortest-palindrome/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0214-shortest-palindrome](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0214-shortest-palindrome/) | Hard |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0214-shortest-palindrome](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0214-shortest-palindrome/) | Hard |
 ## Boyer–Moore String-Search Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -519,4 +523,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0214-shortest-palindrome/) | Hard |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0214-shortest-palindrome/) | Hard |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0214-shortest-palindrome/) | Hard |
 <!---LeetCode Topics End-->
