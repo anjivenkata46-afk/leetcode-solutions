@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0221-maximal-square](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0221-maximal-square/) | Medium |
+| [0233-number-of-digit-one](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0233-number-of-digit-one/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0231-power-of-two](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
+| [0233-number-of-digit-one](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0233-number-of-digit-one/) | Hard |
 | [1175-prime-arrangements](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
+| [0233-number-of-digit-one](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0233-number-of-digit-one/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
