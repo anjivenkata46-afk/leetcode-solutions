@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0220-contains-duplicate-iii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0221-maximal-square](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0221-maximal-square/) | Medium |
+| [0228-summary-ranges](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0228-summary-ranges/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
