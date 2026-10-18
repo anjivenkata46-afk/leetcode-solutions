@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0233-number-of-digit-one/) | Hard |
+| [0234-palindrome-linked-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -312,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
