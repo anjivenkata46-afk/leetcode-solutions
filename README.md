@@ -360,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0226-invert-binary-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -393,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -401,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -421,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -666,4 +670,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
