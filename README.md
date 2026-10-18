@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0224-basic-calculator](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0227-basic-calculator-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0223-rectangle-area](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0223-rectangle-area/) | Medium |
 | [0224-basic-calculator](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
+| [0227-basic-calculator-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 | [1175-prime-arrangements](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0214-shortest-palindrome](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [0224-basic-calculator](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
+| [0227-basic-calculator-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
