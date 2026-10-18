@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0218-the-skyline-problem](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0218-the-skyline-problem/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0220-contains-duplicate-iii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [0221-maximal-square](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0221-maximal-square/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0174-dungeon-game](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0174-dungeon-game/) | Hard |
 | [0200-number-of-islands](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
+| [0221-maximal-square](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0221-maximal-square/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0221-maximal-square](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0221-maximal-square/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
