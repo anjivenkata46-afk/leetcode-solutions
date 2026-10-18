@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0220-contains-duplicate-iii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0221-maximal-square](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0221-maximal-square/) | Medium |
 | [0228-summary-ranges](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0228-summary-ranges/) | Easy |
+| [0229-majority-element-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0218-the-skyline-problem](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0218-the-skyline-problem/) | Hard |
 | [0220-contains-duplicate-iii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [0229-majority-element-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -493,10 +496,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
