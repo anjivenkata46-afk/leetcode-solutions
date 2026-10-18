@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0224-basic-calculator](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
+| [0225-implement-stack-using-queues](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -458,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -630,4 +632,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0223-rectangle-area/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/anjivenkata46-afk/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
